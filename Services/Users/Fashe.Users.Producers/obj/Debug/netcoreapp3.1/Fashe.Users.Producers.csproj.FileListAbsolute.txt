@@ -1,0 +1,5 @@
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.csproj.AssemblyReference.cache
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.GeneratedMSBuildEditorConfig.editorconfig
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.AssemblyInfoInputs.cache
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.AssemblyInfo.cs
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.csproj.CoreCompileInputs.cache
