@@ -3,3 +3,8 @@ D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netc
 D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.AssemblyInfoInputs.cache
 D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.AssemblyInfo.cs
 D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.csproj.CoreCompileInputs.cache
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\bin\Debug\netcoreapp3.1\Fashe.Users.Producers.deps.json
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\bin\Debug\netcoreapp3.1\Fashe.Users.Producers.dll
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\bin\Debug\netcoreapp3.1\Fashe.Users.Producers.pdb
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.dll
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Producers\obj\Debug\netcoreapp3.1\Fashe.Users.Producers.pdb

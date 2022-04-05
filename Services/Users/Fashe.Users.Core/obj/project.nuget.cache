@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "go5i/NJ4spAtT1CcyVP7ifsqpIbowWcXdGkORKfhBHgKyOzZufcqlGskENe2aFFXgGhjQftww03DjekEUiu0fQ==",
+  "dgSpecHash": "sRvEJsHcyzeBAvu+6Ru2TuLXGECVjvYXh+V20kzNYrVRggn4z/5u9iytF5cpXXnAV7NmjIPpHZpmX+bqlt2FEw==",
   "success": true,
   "projectFilePath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rosty\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
+    "C:\\Users\\rosty\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.15\\microsoft.entityframeworkcore.5.0.15.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.15\\microsoft.entityframeworkcore.abstractions.5.0.15.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.15\\microsoft.entityframeworkcore.analyzers.5.0.15.nupkg.sha512",

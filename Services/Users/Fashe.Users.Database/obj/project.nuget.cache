@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/fvtTRPZgfglIiQjtuzisHPgxHbMh09sqEogVYutrekt+QBhIncZq0P44qeau53wCRBnls/lhmssWy9aZShBA==",
+  "dgSpecHash": "wjp7KInMO0GIuyfyMoYwpFuAsUc7UpEmoQpIRH21prhaouj2SF3lUYDc/mD9ORfILEmv/nuLy5J57RKNJnvqVg==",
   "success": true,
   "projectFilePath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\Fashe.Users.Database.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rosty\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
-    "C:\\Users\\rosty\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rosty\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
     "C:\\Users\\rosty\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.15\\microsoft.entityframeworkcore.5.0.15.nupkg.sha512",

@@ -1,0 +1,15 @@
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Application.deps.json
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Application.dll
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Application.pdb
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Core.dll
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Producers.dll
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Core.pdb
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\bin\Debug\netcoreapp3.1\Fashe.Users.Producers.pdb
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.csproj.AssemblyReference.cache
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.AssemblyInfoInputs.cache
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.AssemblyInfo.cs
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.csproj.CoreCompileInputs.cache
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.csproj.CopyComplete
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.dll
+D:\sharp\Fashe\Backend\Fashe\Services\Users\Fashe.Users.Application\obj\Debug\netcoreapp3.1\Fashe.Users.Application.pdb

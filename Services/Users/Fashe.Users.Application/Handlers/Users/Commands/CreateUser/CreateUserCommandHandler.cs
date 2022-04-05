@@ -37,6 +37,7 @@ namespace Fashe.Users.Application.Handlers.Users.Commands.CreateUser
             {
                 Id = Guid.NewGuid(),
                 Name = request.Name,
+                Role = request.Role,
                 Email = request.Email,
                 PasswordHash = hash,
                 PasswordSalt = salt,
