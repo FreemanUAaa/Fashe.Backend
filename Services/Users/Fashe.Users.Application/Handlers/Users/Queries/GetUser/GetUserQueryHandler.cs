@@ -30,9 +30,11 @@ namespace Fashe.Users.Application.Handlers.Users.Queries.GetUser
                 throw new Exception(ExceptionStrings.NotFound);
             }
 
+            GetUserVm vm = mapper.Map<GetUserVm>(user);
+
             logger.LogInformation("User successfully received");
 
-            return mapper.Map<GetUserVm>(user);
+            return vm;
         }
     }
 }

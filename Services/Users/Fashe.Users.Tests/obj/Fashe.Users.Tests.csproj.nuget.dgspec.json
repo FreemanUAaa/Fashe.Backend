@@ -1,0 +1,437 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Tests\\Fashe.Users.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Application\\Fashe.Users.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Application\\Fashe.Users.Application.csproj",
+        "projectName": "Fashe.Users.Application",
+        "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Application\\Fashe.Users.Application.csproj",
+        "packagesPath": "C:\\Users\\rosty\\.nuget\\packages\\",
+        "outputPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\sharp\\Fashe\\Backend\\Fashe\\Messages\\Users\\Messages.Users\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj"
+              },
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj",
+        "projectName": "Fashe.Users.Core",
+        "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj",
+        "packagesPath": "C:\\Users\\rosty\\.nuget\\packages\\",
+        "outputPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\sharp\\Fashe\\Backend\\Fashe\\Messages\\Users\\Messages.Users\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\Fashe.Users.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\Fashe.Users.Database.csproj",
+        "projectName": "Fashe.Users.Database",
+        "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\Fashe.Users.Database.csproj",
+        "packagesPath": "C:\\Users\\rosty\\.nuget\\packages\\",
+        "outputPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\sharp\\Fashe\\Backend\\Fashe\\Messages\\Users\\Messages.Users\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj",
+        "projectName": "Fashe.Users.Producers",
+        "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj",
+        "packagesPath": "C:\\Users\\rosty\\.nuget\\packages\\",
+        "outputPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\sharp\\Fashe\\Backend\\Fashe\\Messages\\Users\\Messages.Users\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Messages.Users": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Tests\\Fashe.Users.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Tests\\Fashe.Users.Tests.csproj",
+        "projectName": "Fashe.Users.Tests",
+        "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Tests\\Fashe.Users.Tests.csproj",
+        "packagesPath": "C:\\Users\\rosty\\.nuget\\packages\\",
+        "outputPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\sharp\\Fashe\\Backend\\Fashe\\Messages\\Users\\Messages.Users\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Application\\Fashe.Users.Application.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Application\\Fashe.Users.Application.csproj"
+              },
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Core\\Fashe.Users.Core.csproj"
+              },
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\Fashe.Users.Database.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Database\\Fashe.Users.Database.csproj"
+              },
+              "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj": {
+                "projectPath": "D:\\sharp\\Fashe\\Backend\\Fashe\\Services\\Users\\Fashe.Users.Producers\\Fashe.Users.Producers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
